@@ -1,0 +1,12 @@
+.rc-tooltip-inner {
+  background-color: #000 !important;
+  color: #fff !important;
+  border-radius: 5px !important;
+}
+.rc-tooltip-arrow-inner {
+  border-bottom-color: black !important;
+}
+
+.Toastify + div {
+  margin: 0 !important;
+}
